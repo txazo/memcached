@@ -40,3 +40,6 @@ doc/protocol-binary.txt
 /doc/doxy
 /memcached.spec
 .*.swp
+
+.DS_Store
+/.idea
